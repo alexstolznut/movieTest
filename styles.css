@@ -1,0 +1,9 @@
+div.movies{
+    width: 100%;
+    background-color: grey;
+    padding-bottom:20%;
+}
+
+div.movies h1{
+    color:red;
+}
